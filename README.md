@@ -6,5 +6,5 @@
 ⭐ **FinSight DataHub** — full-stack financial data ingestion & analytics platform <br>
 🏆 **IntentEdge** — investor intent intelligence platform | **Fidelity Investments India Hackathon 2026 Finalist** <br>
 
-🧠 Currently focused on **DSA, backend engineering, databases & system design**
+🧠 Currently focused on **DSA, backend engineering, databases & system design** <br>
 🔨 I enjoy building, debugging, and turning real-world problems into working software.
