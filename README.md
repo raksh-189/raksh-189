@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | Java & Spring Boot | DSA | Software Engineering
 
-I'm a **5th-semester Information Science Engineering student at Bangalore Institute of Technology**, passionate about building practical, full-stack software systems and solving problems through strong programming fundamentals.
+I'm a **5th-semester ISE undergrad at Bangalore Institute of Technology**, passionate about building practical, full-stack software systems and solving problems through strong programming fundamentals.
 
 I enjoy working across the stack — from designing **backend services and databases** to building **data-driven applications, intelligent systems, and user-facing products**.
 
@@ -159,21 +159,6 @@ This project helped me work with concepts beyond basic CRUD development, particu
 
 I actively practice **Data Structures & Algorithms in Java**, with a focus on understanding patterns, complexity, and efficient problem solving rather than memorizing solutions.
 
-### Topics I work with
-
-* Arrays
-* Strings
-* Hashing
-* Linked Lists
-* Stacks
-* Queues
-* Binary Search
-* Sorting
-* Recursion
-* Trees
-* Graphs
-* Dynamic Programming
-
 ### Problem-Solving Focus
 
 For each problem, I focus on:
@@ -191,37 +176,8 @@ Alongside development and DSA, I am strengthening the core concepts required for
 ### Core Areas
 
 * **Object-Oriented Programming**
-
-  * Encapsulation
-  * Inheritance
-  * Polymorphism
-  * Abstraction
-  * SOLID principles
-
 * **Database Management Systems**
-
-  * SQL
-  * Normalization
-  * Transactions
-  * Indexing
-  * Concurrency
-  * Database design
-
 * **Operating Systems**
-
-  * Processes & Threads
-  * CPU Scheduling
-  * Synchronization
-  * Deadlocks
-  * Memory Management
-
-* **Computer Networks**
-
-  * HTTP / HTTPS
-  * TCP/IP
-  * Client-server architecture
-  * Networking fundamentals
-
 * **Software Engineering**
 
   * REST APIs
@@ -275,36 +231,6 @@ My current goal is to contribute to real-world software products, learn from exp
 
 ---
 
-# 📈 What You'll Find on My GitHub
-
-My repositories reflect my learning and engineering journey across:
-
-```text
-Data Structures & Algorithms
-          │
-          ▼
-Java & Object-Oriented Programming
-          │
-          ▼
-Backend Development
-          │
-          ▼
-Spring Boot / Node.js
-          │
-          ▼
-Databases & REST APIs
-          │
-          ▼
-Full-Stack Applications
-          │
-          ▼
-Docker & Deployment
-```
-
-I believe the best way to learn software engineering is to **build, break, debug, improve, and build again.**
-
----
-
 # 🤝 Let's Connect
 
 I'm interested in opportunities related to:
@@ -317,9 +243,9 @@ I'm interested in opportunities related to:
 
 ### 🔗 Profiles
 
-**GitHub:** [github.com/raksha628](https://github.com/raksha628)
+**GitHub:** [github.com/raksh-189](https://github.com/raksha628)
 
-**LinkedIn:** *Add your LinkedIn profile here*
+**LinkedIn:** *www.linkedin.com/in/sri-raksha-m628*
 
 ---
 
